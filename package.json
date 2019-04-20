@@ -1,0 +1,28 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "一些小demo、小工具，验证一些想法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bangbangde/playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bangbangde/playground/issues"
+  },
+  "homepage": "https://github.com/bangbangde/playground#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
